@@ -28,4 +28,4 @@ Kubernetes (k3s, AKS, k3d) · FluxCD · Helm · Kustomize · Terraform · Micros
 
 ### Contact
 
-[jarrodturpin.com](https://jarrodturpin.com) · [Book a call](https://cal.com/jarrodturpin) · [LinkedIn](https://www.linkedin.com/in/jarrod-turpin) · [blockoneglobal.com](https://www.blockoneglobal.com)
+[jarrodturpin.com](https://jarrodturpin.com) · [LinkedIn](https://www.linkedin.com/in/jarrod-turpin) · [blockoneglobal.com](https://www.blockoneglobal.com)
