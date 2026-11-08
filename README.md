@@ -24,7 +24,7 @@ I use Claude Code as an AI pair programmer, and I review and run every change my
 
 ### Tools
 
-Kubernetes (k3s, AKS, k3d) · FluxCD · Helm · Kustomize · Terraform · Microsoft Azure · GitHub Actions · Azure DevOps · Docker · Prometheus · Grafana · SOPS · Renovate · Linux · Bash · Python
+Kubernetes (k3s, AKS, k3d) · FluxCD · Helm · Kustomize · Terraform · Microsoft Azure · GitHub Actions · Azure DevOps · Docker · Prometheus · Grafana · SOPS · Renovate · Linux · Bash · Python (scripting)
 
 ### Contact
 
